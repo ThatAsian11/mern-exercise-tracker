@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Followed along with a tutorial to make this. First time using the MERN stack(Mongodb Express React Node) for a project
 
-Use `npm start` in one terminal and `nodemon server` in another terminal to start
+Use `npm start` in project directory one terminal and `nodemon server` in backend directory in another terminal to start
 
 ## Available Scripts
 
