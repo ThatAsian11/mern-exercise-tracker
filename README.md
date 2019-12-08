@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Followed along with a tutorial to make this. First time using the MERN stack(Mongodb Express React Node) for a project
+
+Use `npm start` in one terminal and `nodemon server` in another terminal to start
+
 ## Available Scripts
 
 In the project directory, you can run:
